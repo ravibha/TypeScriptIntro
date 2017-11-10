@@ -1,2 +1,2 @@
 # TypeScriptIntro
-Simple examples to get onboarded with basic concepts of TypeScript
+Simple examples to understand basic concepts of TypeScript
